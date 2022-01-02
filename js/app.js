@@ -1,3 +1,3 @@
 function actualizar(){location.reload(true);}
   //Función para actualizar cada 5 segundos(5000 milisegundos)
-  setInterval("actualizar()",5000);
+  setInterval("actualizar()",3000);
